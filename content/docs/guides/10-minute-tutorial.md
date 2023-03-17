@@ -867,7 +867,7 @@ class IsItFriday {
     }
 }
 
-public class Stepdefs {
+public class StepDefinitions {
     private String today;
     private String actualAnswer;
 
